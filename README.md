@@ -18,6 +18,7 @@ The repository contains folders with two solution variations for the task
 Create an interactive page to display and sort a list of prices
 The HTML page should include:
 - An unordered list (<ul>) to display the prices
+  
 - Two buttons: one to sort the prices in ascending order, and another to sort them in descending order
 The JavaScript code should include:
 - An initial array of prices, for example: [100, 500, 250, 750, 300]
